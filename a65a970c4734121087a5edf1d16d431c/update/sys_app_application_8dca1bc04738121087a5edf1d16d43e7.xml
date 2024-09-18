@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Practicing</description>
+        <device_type>browser</device_type>
+        <hint>Practicing</hint>
+        <name/>
+        <order/>
+        <roles>admin,x_1459242_practice.sn_si_admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-17 23:21:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8dca1bc04738121087a5edf1d16d43e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Practice App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Practice App" source="x_1459242_practice">a65a970c4734121087a5edf1d16d431c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Practice App">a65a970c4734121087a5edf1d16d431c</sys_scope>
+        <sys_update_name>sys_app_application_8dca1bc04738121087a5edf1d16d43e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-17 23:21:44</sys_updated_on>
+        <title>Practice App</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
